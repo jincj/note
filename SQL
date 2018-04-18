@@ -1,0 +1,2 @@
+// mysql sql性能分析
+EXPLAIN ：explain select * from 'table_name';
